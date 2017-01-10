@@ -1,0 +1,79 @@
+
+
+
+.container {
+
+  margin-left: 200px;
+  padding-left: 30px;
+  padding-top: 7px;
+}
+
+
+
+#left-menu {
+  float: left;
+  position: fixed;
+  width: 200px;
+  display: block;
+  margin: 10px;
+  padding: 0px;
+  background-color: lightgray
+}
+
+#JavaScript {
+
+}
+#Operators{
+
+}
+#Variables{
+
+}
+#Variable-naming-conventions {
+
+}
+#Functions {
+
+}
+#Methods {
+
+}
+#Arguments {
+
+}
+#Parameters {
+
+}
+#Return {
+
+}
+#Chaining-methods {
+
+}
+#Strings {
+
+}
+#Booleans {
+
+}
+#Undefined {
+
+}
+#NaN {
+
+}
+#Escape {
+
+}
+#Alert {
+
+}
+#Comments {
+
+}
+#jQuery {
+
+}
+#Attributes {
+
+}
